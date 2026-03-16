@@ -1,5 +1,21 @@
+# Virtual environment
 venv/
+
+# Environment variables
 .env
+
+# Python cache
 __pycache__/
 *.pyc
+
+# Mac system files
 .DS_Store
+
+# Chroma vector database
+db/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# HuggingFace / model cache
+.cache/
